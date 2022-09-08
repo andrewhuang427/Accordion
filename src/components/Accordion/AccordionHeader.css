@@ -1,0 +1,11 @@
+.header-content {
+  display: flex;
+  align-items: center;
+  min-height: 50px;
+  padding: 10px;
+  background-color: lightgreen;
+}
+
+.header-content-content {
+    flex-grow: 1
+}
